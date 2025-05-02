@@ -1,0 +1,501 @@
+customer_id,churn_probability,churn_prediction,segment
+1,0.51,1,Dormant
+2,0.73,1,At Risk
+3,0.83,1,At Risk
+4,0.65,1,At Risk
+5,0.86,1,At Risk
+6,0.52,1,Dormant
+7,0.86,1,At Risk
+8,0.82,1,At Risk
+9,0.42,0,Dormant
+10,0.8,1,At Risk
+11,0.22,0,Loyal
+12,0.24,0,Loyal
+13,0.85,1,At Risk
+14,0.46,0,Dormant
+15,0.49,0,Dormant
+16,0.33,0,Dormant
+17,0.29,0,Loyal
+18,0.63,1,At Risk
+19,0.55,1,Dormant
+20,0.5,0,Dormant
+21,0.26,0,Loyal
+22,0.29,0,Loyal
+23,0.14,0,Loyal
+24,0.52,1,Dormant
+25,0.31,0,Dormant
+26,0.52,1,Dormant
+27,0.55,1,Dormant
+28,0.38,0,Dormant
+29,0.84,1,At Risk
+30,0.85,1,At Risk
+31,0.49,0,Dormant
+32,0.74,1,At Risk
+33,0.5,0,Dormant
+34,0.13,0,Loyal
+35,0.17,0,Loyal
+36,0.35,0,Dormant
+37,0.72,1,At Risk
+38,0.54,1,Dormant
+39,0.88,1,At Risk
+40,0.32,0,Dormant
+41,0.46,0,Dormant
+42,0.47,0,Dormant
+43,0.14,0,Loyal
+44,0.26,0,Loyal
+45,0.31,0,Dormant
+46,0.84,1,At Risk
+47,0.16,0,Loyal
+48,0.15,0,Loyal
+49,0.51,1,Dormant
+50,0.25,0,Loyal
+51,0.16,0,Loyal
+52,0.55,1,Dormant
+53,0.12,0,Loyal
+54,0.51,1,Dormant
+55,0.82,1,At Risk
+56,0.87,1,At Risk
+57,0.2,0,Loyal
+58,0.62,1,At Risk
+59,0.87,1,At Risk
+60,0.76,1,At Risk
+61,0.36,0,Dormant
+62,0.12,0,Loyal
+63,0.76,1,At Risk
+64,0.78,1,At Risk
+65,0.72,1,At Risk
+66,0.36,0,Dormant
+67,0.27,0,Loyal
+68,0.15,0,Loyal
+69,0.25,0,Loyal
+70,0.71,1,At Risk
+71,0.24,0,Loyal
+72,0.46,0,Dormant
+73,0.26,0,Loyal
+74,0.18,0,Loyal
+75,0.39,0,Dormant
+76,0.44,0,Dormant
+77,0.16,0,Loyal
+78,0.47,0,Dormant
+79,0.27,0,Loyal
+80,0.83,1,At Risk
+81,0.2,0,Loyal
+82,0.11,0,Loyal
+83,0.27,0,Loyal
+84,0.11,0,Loyal
+85,0.3,0,Dormant
+86,0.88,1,At Risk
+87,0.58,1,Dormant
+88,0.4,0,Dormant
+89,0.53,1,Dormant
+90,0.78,1,At Risk
+91,0.66,1,At Risk
+92,0.43,0,Dormant
+93,0.84,1,At Risk
+94,0.2,0,Loyal
+95,0.83,1,At Risk
+96,0.41,0,Dormant
+97,0.19,0,Loyal
+98,0.33,0,Dormant
+99,0.54,1,Dormant
+100,0.12,0,Loyal
+101,0.31,0,Dormant
+102,0.28,0,Loyal
+103,0.24,0,Loyal
+104,0.45,0,Dormant
+105,0.59,1,Dormant
+106,0.29,0,Loyal
+107,0.39,0,Dormant
+108,0.68,1,At Risk
+109,0.24,0,Loyal
+110,0.82,1,At Risk
+111,0.63,1,At Risk
+112,0.28,0,Loyal
+113,0.2,0,Loyal
+114,0.32,0,Dormant
+115,0.73,1,At Risk
+116,0.61,1,At Risk
+117,0.17,0,Loyal
+118,0.55,1,Dormant
+119,0.49,0,Dormant
+120,0.25,0,Loyal
+121,0.8,1,At Risk
+122,0.88,1,At Risk
+123,0.83,1,At Risk
+124,0.83,1,At Risk
+125,0.58,1,Dormant
+126,0.25,0,Loyal
+127,0.89,1,At Risk
+128,0.75,1,At Risk
+129,0.37,0,Dormant
+130,0.43,0,Dormant
+131,0.84,1,At Risk
+132,0.12,0,Loyal
+133,0.37,0,Dormant
+134,0.63,1,At Risk
+135,0.82,1,At Risk
+136,0.46,0,Dormant
+137,0.54,1,Dormant
+138,0.54,1,Dormant
+139,0.5,0,Dormant
+140,0.27,0,Loyal
+141,0.78,1,At Risk
+142,0.77,1,At Risk
+143,0.78,1,At Risk
+144,0.64,1,At Risk
+145,0.29,0,Loyal
+146,0.36,0,Dormant
+147,0.14,0,Loyal
+148,0.44,0,Dormant
+149,0.62,1,At Risk
+150,0.48,0,Dormant
+151,0.6,1,Dormant
+152,0.81,1,At Risk
+153,0.77,1,At Risk
+154,0.32,0,Dormant
+155,0.19,0,Loyal
+156,0.37,0,Dormant
+157,0.16,0,Loyal
+158,0.16,0,Loyal
+159,0.67,1,At Risk
+160,0.61,1,At Risk
+161,0.14,0,Loyal
+162,0.89,1,At Risk
+163,0.41,0,Dormant
+164,0.26,0,Loyal
+165,0.11,0,Loyal
+166,0.75,1,At Risk
+167,0.63,1,At Risk
+168,0.69,1,At Risk
+169,0.24,0,Loyal
+170,0.62,1,At Risk
+171,0.22,0,Loyal
+172,0.7,1,At Risk
+173,0.73,1,At Risk
+174,0.67,1,At Risk
+175,0.15,0,Loyal
+176,0.49,0,Dormant
+177,0.83,1,At Risk
+178,0.89,1,At Risk
+179,0.39,0,Dormant
+180,0.85,1,At Risk
+181,0.5,0,Dormant
+182,0.62,1,At Risk
+183,0.75,1,At Risk
+184,0.79,1,At Risk
+185,0.55,1,Dormant
+186,0.56,1,Dormant
+187,0.34,0,Dormant
+188,0.72,1,At Risk
+189,0.84,1,At Risk
+190,0.64,1,At Risk
+191,0.3,0,Dormant
+192,0.61,1,At Risk
+193,0.31,0,Dormant
+194,0.57,1,Dormant
+195,0.26,0,Loyal
+196,0.62,1,At Risk
+197,0.26,0,Loyal
+198,0.67,1,At Risk
+199,0.17,0,Loyal
+200,0.47,0,Dormant
+201,0.24,0,Loyal
+202,0.88,1,At Risk
+203,0.29,0,Loyal
+204,0.83,1,At Risk
+205,0.21,0,Loyal
+206,0.75,1,At Risk
+207,0.11,0,Loyal
+208,0.59,1,Dormant
+209,0.21,0,Loyal
+210,0.43,0,Dormant
+211,0.71,1,At Risk
+212,0.35,0,Dormant
+213,0.11,0,Loyal
+214,0.41,0,Dormant
+215,0.85,1,At Risk
+216,0.31,0,Dormant
+217,0.26,0,Loyal
+218,0.21,0,Loyal
+219,0.37,0,Dormant
+220,0.87,1,At Risk
+221,0.65,1,At Risk
+222,0.4,0,Dormant
+223,0.83,1,At Risk
+224,0.23,0,Loyal
+225,0.27,0,Loyal
+226,0.85,1,At Risk
+227,0.2,0,Loyal
+228,0.12,0,Loyal
+229,0.5,0,Dormant
+230,0.34,0,Dormant
+231,0.7,1,At Risk
+232,0.1,0,Loyal
+233,0.26,0,Loyal
+234,0.22,0,Loyal
+235,0.11,0,Loyal
+236,0.75,1,At Risk
+237,0.49,0,Dormant
+238,0.83,1,At Risk
+239,0.2,0,Loyal
+240,0.23,0,Loyal
+241,0.75,1,At Risk
+242,0.72,1,At Risk
+243,0.84,1,At Risk
+244,0.79,1,At Risk
+245,0.24,0,Loyal
+246,0.13,0,Loyal
+247,0.1,0,Loyal
+248,0.52,1,Dormant
+249,0.81,1,At Risk
+250,0.7,1,At Risk
+251,0.8,1,At Risk
+252,0.52,1,Dormant
+253,0.64,1,At Risk
+254,0.72,1,At Risk
+255,0.49,0,Dormant
+256,0.48,0,Dormant
+257,0.18,0,Loyal
+258,0.45,0,Dormant
+259,0.63,1,At Risk
+260,0.39,0,Dormant
+261,0.54,1,Dormant
+262,0.47,0,Dormant
+263,0.71,1,At Risk
+264,0.33,0,Dormant
+265,0.62,1,At Risk
+266,0.88,1,At Risk
+267,0.44,0,Dormant
+268,0.39,0,Dormant
+269,0.79,1,At Risk
+270,0.73,1,At Risk
+271,0.33,0,Dormant
+272,0.17,0,Loyal
+273,0.19,0,Loyal
+274,0.63,1,At Risk
+275,0.34,0,Dormant
+276,0.16,0,Loyal
+277,0.73,1,At Risk
+278,0.24,0,Loyal
+279,0.71,1,At Risk
+280,0.41,0,Dormant
+281,0.8,1,At Risk
+282,0.83,1,At Risk
+283,0.24,0,Loyal
+284,0.6,1,Dormant
+285,0.76,1,At Risk
+286,0.36,0,Dormant
+287,0.28,0,Loyal
+288,0.47,0,Dormant
+289,0.76,1,At Risk
+290,0.36,0,Dormant
+291,0.75,1,At Risk
+292,0.69,1,At Risk
+293,0.45,0,Dormant
+294,0.89,1,At Risk
+295,0.2,0,Loyal
+296,0.2,0,Loyal
+297,0.71,1,At Risk
+298,0.13,0,Loyal
+299,0.23,0,Loyal
+300,0.15,0,Loyal
+301,0.12,0,Loyal
+302,0.59,1,Dormant
+303,0.2,0,Loyal
+304,0.16,0,Loyal
+305,0.62,1,At Risk
+306,0.66,1,At Risk
+307,0.8,1,At Risk
+308,0.61,1,At Risk
+309,0.68,1,At Risk
+310,0.71,1,At Risk
+311,0.44,0,Dormant
+312,0.55,1,Dormant
+313,0.89,1,At Risk
+314,0.4,0,Dormant
+315,0.83,1,At Risk
+316,0.46,0,Dormant
+317,0.64,1,At Risk
+318,0.41,0,Dormant
+319,0.29,0,Loyal
+320,0.63,1,At Risk
+321,0.14,0,Loyal
+322,0.43,0,Dormant
+323,0.18,0,Loyal
+324,0.4,0,Dormant
+325,0.69,1,At Risk
+326,0.36,0,Dormant
+327,0.12,0,Loyal
+328,0.12,0,Loyal
+329,0.36,0,Dormant
+330,0.25,0,Loyal
+331,0.46,0,Dormant
+332,0.22,0,Loyal
+333,0.7,1,At Risk
+334,0.13,0,Loyal
+335,0.33,0,Dormant
+336,0.66,1,At Risk
+337,0.17,0,Loyal
+338,0.68,1,At Risk
+339,0.34,0,Dormant
+340,0.3,0,Dormant
+341,0.5,0,Dormant
+342,0.9,1,At Risk
+343,0.64,1,At Risk
+344,0.65,1,At Risk
+345,0.57,1,Dormant
+346,0.3,0,Dormant
+347,0.38,0,Dormant
+348,0.77,1,At Risk
+349,0.21,0,Loyal
+350,0.75,1,At Risk
+351,0.44,0,Dormant
+352,0.59,1,Dormant
+353,0.46,0,Dormant
+354,0.57,1,Dormant
+355,0.73,1,At Risk
+356,0.89,1,At Risk
+357,0.41,0,Dormant
+358,0.79,1,At Risk
+359,0.49,0,Dormant
+360,0.29,0,Loyal
+361,0.45,0,Dormant
+362,0.86,1,At Risk
+363,0.78,1,At Risk
+364,0.71,1,At Risk
+365,0.63,1,At Risk
+366,0.19,0,Loyal
+367,0.18,0,Loyal
+368,0.32,0,Dormant
+369,0.6,1,Dormant
+370,0.51,1,Dormant
+371,0.14,0,Loyal
+372,0.14,0,Loyal
+373,0.8,1,At Risk
+374,0.31,0,Dormant
+375,0.35,0,Dormant
+376,0.87,1,At Risk
+377,0.72,1,At Risk
+378,0.46,0,Dormant
+379,0.3,0,Dormant
+380,0.13,0,Loyal
+381,0.27,0,Loyal
+382,0.54,1,Dormant
+383,0.69,1,At Risk
+384,0.69,1,At Risk
+385,0.65,1,At Risk
+386,0.33,0,Dormant
+387,0.18,0,Loyal
+388,0.39,0,Dormant
+389,0.23,0,Loyal
+390,0.14,0,Loyal
+391,0.51,1,Dormant
+392,0.42,0,Dormant
+393,0.74,1,At Risk
+394,0.14,0,Loyal
+395,0.32,0,Dormant
+396,0.87,1,At Risk
+397,0.14,0,Loyal
+398,0.34,0,Dormant
+399,0.62,1,At Risk
+400,0.31,0,Dormant
+401,0.77,1,At Risk
+402,0.2,0,Loyal
+403,0.19,0,Loyal
+404,0.78,1,At Risk
+405,0.66,1,At Risk
+406,0.72,1,At Risk
+407,0.68,1,At Risk
+408,0.42,0,Dormant
+409,0.22,0,Loyal
+410,0.46,0,Dormant
+411,0.73,1,At Risk
+412,0.77,1,At Risk
+413,0.47,0,Dormant
+414,0.12,0,Loyal
+415,0.56,1,Dormant
+416,0.25,0,Loyal
+417,0.34,0,Dormant
+418,0.48,0,Dormant
+419,0.41,0,Dormant
+420,0.33,0,Dormant
+421,0.25,0,Loyal
+422,0.78,1,At Risk
+423,0.37,0,Dormant
+424,0.81,1,At Risk
+425,0.63,1,At Risk
+426,0.37,0,Dormant
+427,0.47,0,Dormant
+428,0.15,0,Loyal
+429,0.76,1,At Risk
+430,0.36,0,Dormant
+431,0.39,0,Dormant
+432,0.43,0,Dormant
+433,0.31,0,Dormant
+434,0.29,0,Loyal
+435,0.37,0,Dormant
+436,0.35,0,Dormant
+437,0.74,1,At Risk
+438,0.77,1,At Risk
+439,0.4,0,Dormant
+440,0.86,1,At Risk
+441,0.5,0,Dormant
+442,0.82,1,At Risk
+443,0.11,0,Loyal
+444,0.56,1,Dormant
+445,0.75,1,At Risk
+446,0.18,0,Loyal
+447,0.87,1,At Risk
+448,0.19,0,Loyal
+449,0.89,1,At Risk
+450,0.7,1,At Risk
+451,0.64,1,At Risk
+452,0.75,1,At Risk
+453,0.84,1,At Risk
+454,0.17,0,Loyal
+455,0.82,1,At Risk
+456,0.2,0,Loyal
+457,0.48,0,Dormant
+458,0.73,1,At Risk
+459,0.45,0,Dormant
+460,0.41,0,Dormant
+461,0.22,0,Loyal
+462,0.8,1,At Risk
+463,0.63,1,At Risk
+464,0.74,1,At Risk
+465,0.66,1,At Risk
+466,0.85,1,At Risk
+467,0.12,0,Loyal
+468,0.55,1,Dormant
+469,0.37,0,Dormant
+470,0.19,0,Loyal
+471,0.72,1,At Risk
+472,0.81,1,At Risk
+473,0.2,0,Loyal
+474,0.65,1,At Risk
+475,0.16,0,Loyal
+476,0.18,0,Loyal
+477,0.85,1,At Risk
+478,0.31,0,Dormant
+479,0.83,1,At Risk
+480,0.3,0,Dormant
+481,0.74,1,At Risk
+482,0.2,0,Loyal
+483,0.72,1,At Risk
+484,0.37,0,Dormant
+485,0.66,1,At Risk
+486,0.35,0,Dormant
+487,0.88,1,At Risk
+488,0.74,1,At Risk
+489,0.78,1,At Risk
+490,0.59,1,Dormant
+491,0.69,1,At Risk
+492,0.68,1,At Risk
+493,0.31,0,Dormant
+494,0.54,1,Dormant
+495,0.18,0,Loyal
+496,0.63,1,At Risk
+497,0.64,1,At Risk
+498,0.47,0,Dormant
+499,0.38,0,Dormant
+500,0.15,0,Loyal
